@@ -17,4 +17,13 @@
     fill="#1f2328">
     Fills
   </text>
+  <rect
+    x="0.5"
+    y="0.5"
+    width="799"
+    height="47"
+    fill="none"
+    stroke="#d1d9e0"
+    stroke-width="1"
+  />
 </svg>
