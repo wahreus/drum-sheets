@@ -24,13 +24,16 @@ A personal library of sheet music and practice material for drums.
     </tr>
   </tbody>
 </table>
-
+<br>
 <p align="center">
   <img src="figures/grooves_header.svg" width="100%"/>
+</p>
+<p align="center">
   <img src="figures/led_zeppelin-whole_lotta_love/grooves.svg" width="100%"/>
 </p>
-
 <p align="center">
   <img src="figures/fills_header.svg" width="100%"/>
+</p>
+<p align="center">
   <img src="figures/led_zeppelin-whole_lotta_love/fills.svg" width="100%"/>
 </p>
