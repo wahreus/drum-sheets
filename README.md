@@ -7,7 +7,7 @@ A personal library of sheet music and practice material for drums.
 The transcriptions below cover select sections of studio recordings and are intended as interpretations and starting points for further exploration rather than note-for-note transcriptions.
 
 <details>
-<summary><strong>Led Zeppelin — 'Whole Lotta Love'</strong></summary>
+<summary><strong>Led Zeppelin | 'Whole Lotta Love'</strong></summary>
 
 <table>
   <tbody>
