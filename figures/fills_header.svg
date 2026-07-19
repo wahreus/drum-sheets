@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      width="800"
-     height="48"
-     viewBox="0 0 800 48"
+     height="40"
+     viewBox="0 0 800 40"
      role="img"
      aria-labelledby="title">
   <title id="title">Fills</title>
@@ -21,9 +21,10 @@
     x="0.5"
     y="0.5"
     width="799"
-    height="47"
+    height="39"
     fill="none"
     stroke="#d1d9e0"
     stroke-width="1"
+    vector-effect="non-scaling-stroke"
   />
 </svg>
