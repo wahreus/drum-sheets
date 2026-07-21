@@ -62,6 +62,7 @@ A personal library of sheet music and practice material for drums.
     </tr>
   </tbody>
 </table>
+<br>
 
 ## Transcriptions
 
@@ -139,6 +140,7 @@ The transcriptions below cover select sections of studio recordings and are inte
   <img src="figures/led_zeppelin-whole_lotta_love/fills.svg" width="100%"/>
 </p>
 </details>
+<br>
 
 ## Pattern focus: Shuffles
 
