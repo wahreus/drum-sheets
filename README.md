@@ -96,7 +96,7 @@ The transcriptions below cover select sections of studio recordings and are inte
   <img src="figures/grooves_header.svg" width="100%"/>
 </p>
 <p align="center">
-  <img src="figures/led_zeppelin-custard_pie/grooves.svg" width="100%"/>
+  <img src="figures/led_zeppelin-custard_pie/grooves.svg" width="90%"/>
 </p>
 
 > **NOTE:** In the repeat measures (bars 2–4, 8, and 12), repeat the groove without the crash cymbal on beat 1.
@@ -129,7 +129,7 @@ The transcriptions below cover select sections of studio recordings and are inte
   <img src="figures/grooves_header.svg" width="100%"/>
 </p>
 <p align="center">
-  <img src="figures/led_zeppelin-whole_lotta_love/grooves.svg" width="100%"/>
+  <img src="figures/led_zeppelin-whole_lotta_love/grooves.svg" width="90%"/>
 </p>
 
 > 💡 Use the second groove as a vamp for improvisation.
@@ -138,7 +138,7 @@ The transcriptions below cover select sections of studio recordings and are inte
   <img src="figures/fills_header.svg" width="100%"/>
 </p>
 <p align="center">
-  <img src="figures/led_zeppelin-whole_lotta_love/fills.svg" width="100%"/>
+  <img src="figures/led_zeppelin-whole_lotta_love/fills.svg" width="90%"/>
 </p>
 </details>
 <br>
