@@ -96,6 +96,9 @@ The transcriptions below cover select sections of studio recordings and are inte
 <p align="center">
   <img src="figures/led_zeppelin-whole_lotta_love/grooves.svg" width="100%"/>
 </p>
+
+> 💡 Use the second groove as a vamp for improvisation.
+
 <p align="center">
   <img src="figures/fills_header.svg" width="100%"/>
 </p>
