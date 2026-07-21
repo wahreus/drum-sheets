@@ -97,8 +97,7 @@ The transcriptions below cover select sections of studio recordings and are inte
   <img src="figures/led_zeppelin-custard_pie/grooves.svg" width="100%"/>
 </p>
 
-> **NOTE:** No crash on repetition bars.
-
+> **NOTE:** In the repeat measures (bars 2–4, 8, and 12), repeat the groove without the crash cymbal on beat 1.
 </details>
 
 <details>
