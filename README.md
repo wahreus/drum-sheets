@@ -68,6 +68,40 @@ A personal library of sheet music and practice material for drums.
 The transcriptions below cover select sections of studio recordings and are intended as interpretations and starting points for further exploration rather than note-for-note transcriptions.
 
 <details>
+<summary><strong>Led Zeppelin | 'Custard Pie'</strong></summary>
+<h2>Led Zeppelin | 'Custard Pie'</h2>
+<table>
+  <tbody>
+    <tr>
+      <td align="right"><strong>Album</strong></td>
+      <td>Physical Graffiti (1975)</td>
+    </tr>
+    <tr>
+      <td align="right"><strong>Audio</strong></td>
+      <td>
+        <a href="https://open.spotify.com/track/6hBtPaRGLbIE4Q6OPbj5ds?si=ad9eba4ce04a4685">Spotify</a>
+        /
+        <a href="https://www.youtube.com/watch?v=kPjDqylUUpQ&list=RDkPjDqylUUpQ&start_radio=1">YouTube</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><strong>Tempo</strong></td>
+      <td>♩= 92 BPM</td>
+    </tr>
+  </tbody>
+</table>
+<p align="center">
+  <img src="figures/grooves_header.svg" width="100%"/>
+</p>
+<p align="center">
+  <img src="figures/led_zeppelin-custard_pie/grooves.svg" width="100%"/>
+</p>
+
+> **NOTE:** No crash on repetition bars.
+
+</details>
+
+<details>
 <summary><strong>Led Zeppelin | 'Whole Lotta Love'</strong></summary>
 <h2>Led Zeppelin | 'Whole Lotta Love'</h2>
 <table>
