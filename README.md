@@ -1,4 +1,4 @@
-# 🥁 Drum Sheets
+# 🥁 Drum Sheet Library
 
 A personal library of sheet music and practice material for drums. It currently includes transcriptions of recorded music and a section on shuffle grooves, with more sections and material to be added as the library grows.
 
@@ -96,7 +96,7 @@ The transcriptions below cover select sections of studio recordings and are inte
   <img src="figures/grooves_header.svg" width="100%"/>
 </p>
 <p align="center">
-  <img src="figures/led_zeppelin-custard_pie/grooves.svg" width="90%"/>
+  <img src="figures/led_zeppelin-custard_pie/grooves.svg" width="80%"/>
 </p>
 
 > **NOTE:** In the repeat measures (bars 2–4, 8, and 12), repeat the groove without the crash cymbal on beat 1.
@@ -129,7 +129,7 @@ The transcriptions below cover select sections of studio recordings and are inte
   <img src="figures/grooves_header.svg" width="100%"/>
 </p>
 <p align="center">
-  <img src="figures/led_zeppelin-whole_lotta_love/grooves.svg" width="90%"/>
+  <img src="figures/led_zeppelin-whole_lotta_love/grooves.svg" width="80%"/>
 </p>
 
 > 💡 Use the second groove as a vamp for improvisation.
@@ -138,7 +138,7 @@ The transcriptions below cover select sections of studio recordings and are inte
   <img src="figures/fills_header.svg" width="100%"/>
 </p>
 <p align="center">
-  <img src="figures/led_zeppelin-whole_lotta_love/fills.svg" width="90%"/>
+  <img src="figures/led_zeppelin-whole_lotta_love/fills.svg" width="80%"/>
 </p>
 </details>
 <br>
@@ -154,10 +154,10 @@ Here, a Texas shuffle is defined solely by its snare pattern: accents on beats 2
     <tr>
       <th></th>
       <th>
-        <div align="center">HH foot on downbeat</div>
+        <div align="center">HH&nbsp;foot&nbsp;on downbeat</div>
       </th>
       <th>
-        <div align="center">HH foot on upbeat</div>
+        <div align="center">HH&nbsp;foot on upbeat</div>
       </th>
     </tr>
   </thead>
