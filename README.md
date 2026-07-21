@@ -5,7 +5,7 @@ A personal library of sheet music and practice material for drums. It currently 
 ## Note legend
 
 <p align="center">
-  <img src="figures/legend.svg" width="100%"/>
+  <img src="figures/legend.svg" width="80%"/>
 </p>
 <p align="center"><em>Notes are numbered from left to right in the above image.</em></p>
 <table align="center">
