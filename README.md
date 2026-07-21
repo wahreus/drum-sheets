@@ -139,3 +139,41 @@ The transcriptions below cover select sections of studio recordings and are inte
   <img src="figures/led_zeppelin-whole_lotta_love/fills.svg" width="100%"/>
 </p>
 </details>
+
+## Pattern focus: Texas shuffles
+
+Here, a Texas shuffle is defined solely by its snare pattern: accents on beats 2 and 4, with all other notes played as ghost notes. The accompanying kick, ride, and hi-hat patterns may vary. Practice transitioning seamlessly between any two patterns in the table below, which combines common kick and hi-hat-foot patterns.
+
+<table align="center">
+  <thead>
+    <tr>
+      <th></th>
+      <th>
+        <div align="center">HH foot on downbeat</div>
+      </th>
+      <th>
+        <div align="center">HH foot on upbeat</div>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Straight&nbsp;kick pattern</strong></td>
+      <td align="center">
+        <img src="figures/texas_shuffles/1.svg"/>
+      </td>
+      <td align="center">
+        <img src="figures/texas_shuffles/2.svg"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Syncopated&nbsp;kick pattern</strong></td>
+      <td align="center">
+        <img src="figures/texas_shuffles/3.svg"/>
+      </td>
+      <td align="center">
+        <img src="figures/texas_shuffles/4.svg"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
