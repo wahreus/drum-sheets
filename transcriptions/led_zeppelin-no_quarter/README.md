@@ -1,4 +1,4 @@
-# **Led Zeppelin** | 'No Quarter'
+# Led Zeppelin | 'No Quarter'
 <table>
   <tbody>
     <tr>

@@ -1,4 +1,4 @@
-# **Led Zeppelin** | 'Custard Pie'
+# Led Zeppelin | 'Custard Pie'
 <table>
   <tbody>
     <tr>

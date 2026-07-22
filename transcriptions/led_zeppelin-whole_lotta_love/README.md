@@ -1,4 +1,4 @@
-# **Led Zeppelin** | 'Whole Lotta Love'
+# Led Zeppelin | 'Whole Lotta Love'
 <table>
   <tbody>
     <tr>
