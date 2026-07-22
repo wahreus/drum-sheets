@@ -83,7 +83,7 @@ The transcriptions below cover select sections of studio recordings and are inte
       <td>
         <a href="https://open.spotify.com/track/6hBtPaRGLbIE4Q6OPbj5ds?si=ad9eba4ce04a4685">Spotify</a>
         /
-        <a href="https://www.youtube.com/watch?v=kPjDqylUUpQ&list=RDkPjDqylUUpQ&start_radio=1">YouTube</a>
+        <a href="https://www.youtube.com/watch?v=_vG_mTt6hCs&list=RD_vG_mTt6hCs&start_radio=1">YouTube</a>
       </td>
     </tr>
     <tr>
@@ -100,6 +100,37 @@ The transcriptions below cover select sections of studio recordings and are inte
 </p>
 
 > **NOTE:** In the repeat measures (bars 2–4, 8, and 12), repeat the groove without the crash cymbal on beat 1.
+</details>
+
+<details>
+<summary><strong>Led Zeppelin | 'No Quarter'</strong></summary>
+<h2>Led Zeppelin | 'No Quarter'</h2>
+<table>
+  <tbody>
+    <tr>
+      <td align="right"><strong>Album</strong></td>
+      <td>Houses Of The Holy (1973)</td>
+    </tr>
+    <tr>
+      <td align="right"><strong>Audio</strong></td>
+      <td>
+        <a href="https://open.spotify.com/track/0GRBFjza23Im7Xb16c9AaK?si=2e2b928333b745d6">Spotify</a>
+        /
+        <a href="https://www.youtube.com/watch?v=HibBnC6SVk8&list=RDHibBnC6SVk8&start_radio=1">YouTube</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><strong>Tempo</strong></td>
+      <td>♩= 69 BPM</td>
+    </tr>
+  </tbody>
+</table>
+<p align="center">
+  <img src="figures/grooves_header.svg" width="100%"/>
+</p>
+<p align="center">
+  <img src="figures/led_zeppelin-no_quarter/grooves.svg" width="80%"/>
+</p>
 </details>
 
 <details>
@@ -157,7 +188,7 @@ Here, a Texas shuffle is defined solely by its snare pattern: accents on beats 2
         <div align="center">HH&nbsp;foot&nbsp;on downbeat</div>
       </th>
       <th>
-        <div align="center">HH&nbsp;foot on upbeat</div>
+        <div align="center">HH&nbsp;foot&nbsp;on upbeat</div>
       </th>
     </tr>
   </thead>
