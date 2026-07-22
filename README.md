@@ -5,7 +5,7 @@ A personal library of sheet music and practice material for drums. It currently 
 ## Note legend
 
 <p align="center">
-  <img src="figures/legend.svg" width="80%"/>
+  <img src="figures/legend.svg" width="85%"/>
 </p>
 <p align="center"><em>Notes are numbered from left to right in the above image.</em></p>
 <table align="center">
@@ -69,109 +69,9 @@ A personal library of sheet music and practice material for drums. It currently 
 
 The transcriptions below cover select sections of studio recordings and are intended as interpretations and starting points for further exploration rather than note-for-note transcriptions.
 
-<details>
-<summary><strong>Led Zeppelin | 'Custard Pie'</strong></summary>
-<h2>Led Zeppelin | 'Custard Pie'</h2>
-<table>
-  <tbody>
-    <tr>
-      <td align="right"><strong>Album</strong></td>
-      <td>Physical Graffiti (1975)</td>
-    </tr>
-    <tr>
-      <td align="right"><strong>Audio</strong></td>
-      <td>
-        <a href="https://open.spotify.com/track/6hBtPaRGLbIE4Q6OPbj5ds?si=ad9eba4ce04a4685">Spotify</a>
-        /
-        <a href="https://www.youtube.com/watch?v=_vG_mTt6hCs&list=RD_vG_mTt6hCs&start_radio=1">YouTube</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="right"><strong>Tempo</strong></td>
-      <td>♩= 92 BPM</td>
-    </tr>
-  </tbody>
-</table>
-<p align="center">
-  <img src="figures/grooves_header.svg" width="100%"/>
-</p>
-<p align="center">
-  <img src="figures/led_zeppelin-custard_pie/grooves.svg" width="80%"/>
-</p>
-
-> **NOTE:** In the repeat measures (bars 2–4, 8, and 12), repeat the groove without the crash cymbal on beat 1.
-</details>
-
-<details>
-<summary><strong>Led Zeppelin | 'No Quarter'</strong></summary>
-<h2>Led Zeppelin | 'No Quarter'</h2>
-<table>
-  <tbody>
-    <tr>
-      <td align="right"><strong>Album</strong></td>
-      <td>Houses Of The Holy (1973)</td>
-    </tr>
-    <tr>
-      <td align="right"><strong>Audio</strong></td>
-      <td>
-        <a href="https://open.spotify.com/track/0GRBFjza23Im7Xb16c9AaK?si=2e2b928333b745d6">Spotify</a>
-        /
-        <a href="https://www.youtube.com/watch?v=HibBnC6SVk8&list=RDHibBnC6SVk8&start_radio=1">YouTube</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="right"><strong>Tempo</strong></td>
-      <td>♩= 69 BPM</td>
-    </tr>
-  </tbody>
-</table>
-<p align="center">
-  <img src="figures/grooves_header.svg" width="100%"/>
-</p>
-<p align="center">
-  <img src="figures/led_zeppelin-no_quarter/grooves.svg" width="80%"/>
-</p>
-</details>
-
-<details>
-<summary><strong>Led Zeppelin | 'Whole Lotta Love'</strong></summary>
-<h2>Led Zeppelin | 'Whole Lotta Love'</h2>
-<table>
-  <tbody>
-    <tr>
-      <td align="right"><strong>Album</strong></td>
-      <td>Led Zeppelin II (1969)</td>
-    </tr>
-    <tr>
-      <td align="right"><strong>Audio</strong></td>
-      <td>
-        <a href="https://open.spotify.com/track/3OuMIIFP5TxM8tLXMWYPGV?si=477b29ba266e4242">Spotify</a>
-        /
-        <a href="https://www.youtube.com/watch?v=HibBnC6SVk8&list=RDHibBnC6SVk8&start_radio=1">YouTube</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="right"><strong>Tempo</strong></td>
-      <td>♩= 92 BPM</td>
-    </tr>
-  </tbody>
-</table>
-<p align="center">
-  <img src="figures/grooves_header.svg" width="100%"/>
-</p>
-<p align="center">
-  <img src="figures/led_zeppelin-whole_lotta_love/grooves.svg" width="80%"/>
-</p>
-
-> 💡 Use the second groove as a vamp for improvisation.
-
-<p align="center">
-  <img src="figures/fills_header.svg" width="100%"/>
-</p>
-<p align="center">
-  <img src="figures/led_zeppelin-whole_lotta_love/fills.svg" width="80%"/>
-</p>
-</details>
+[Led Zeppelin | 'Custard Pie'](transcriptions/led_zeppelin-custard_pie/README.md)<br>
+[Led Zeppelin | 'No Quarter'](transcriptions/led_zeppelin-no_quarter/README.md)<br>
+[Led Zeppelin | 'Whole Lotta Love'](transcriptions/led_zeppelin-whole_lotta_love/README.md)<br>
 <br>
 
 ## Pattern focus: Shuffles
