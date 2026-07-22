@@ -1,4 +1,4 @@
-<h2>Led Zeppelin | 'Whole Lotta Love'</h2>
+# **Led Zeppelin** | 'Whole Lotta Love'
 <table>
   <tbody>
     <tr>

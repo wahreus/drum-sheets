@@ -69,9 +69,9 @@ A personal library of sheet music and practice material for drums. It currently 
 
 The transcriptions below cover select sections of studio recordings and are intended as interpretations and starting points for further exploration rather than note-for-note transcriptions.
 
-[Led Zeppelin | 'Custard Pie'](transcriptions/led_zeppelin-custard_pie/README.md)<br>
-[Led Zeppelin | 'No Quarter'](transcriptions/led_zeppelin-no_quarter/README.md)<br>
-[Led Zeppelin | 'Whole Lotta Love'](transcriptions/led_zeppelin-whole_lotta_love/README.md)<br>
+&emsp;[<strong>Led Zeppelin</strong> | 'Custard Pie'](transcriptions/led_zeppelin-custard_pie/README.md)<br>
+&emsp;[<strong>Led Zeppelin</strong> | 'No Quarter'](transcriptions/led_zeppelin-no_quarter/README.md)<br>
+&emsp;[<strong>Led Zeppelin</strong> | 'Whole Lotta Love'](transcriptions/led_zeppelin-whole_lotta_love/README.md)<br>
 <br>
 
 ## Pattern focus: Shuffles
