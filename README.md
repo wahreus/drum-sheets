@@ -1,6 +1,6 @@
 # 🥁 Drum Sheet Library
 
-A personal library of sheet music and practice material for drums. It currently includes transcriptions of recorded music and a section on shuffle grooves, with more sections and material to be added as the library grows.
+A library of sheet music and practice material for drums. It currently includes transcriptions of recorded music and a section on shuffle grooves, with more sections and material to be added as the library grows.
 
 ## Note legend
 
@@ -75,6 +75,49 @@ The transcriptions below cover select sections of studio recordings and are inte
 <br>
 
 ## Pattern focus: Shuffles
+
+### Half-time shuffles
+
+The half-time shuffles below are interpretations of well-known shuffles played by John Bonham, Bernard Purdie, and Jeff Procaro. Practice these grooves as written, but also experiment with moving the leading hand from the hi-hat to the ride while incorporating different hi-hat-foot patterns.
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>
+        <div align="center">Shuffle groove</div>
+      </th>
+      <th>
+        <div align="center">Inspired by</div>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="figures/half-time_shuffles/1.svg"/>
+      </td>
+      <td align="center">
+        <strong>Led&nbsp;Zeppelin - 'Fool&nbsp;In&nbsp;The&nbsp;Rain'</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="figures/half-time_shuffles/2.svg"/>
+      </td>
+      <td align="center">
+        <strong>Steely&nbsp;Dan - 'Home&nbsp;At&nbsp;Last'</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="figures/half-time_shuffles/3.svg"/>
+      </td>
+      <td align="center">
+        <strong>Toto - 'Rosanna'</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Texas shuffles
 
