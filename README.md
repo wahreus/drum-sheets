@@ -80,13 +80,13 @@ The transcriptions below cover select sections of studio recordings and are inte
 
 The half-time shuffles below are interpretations of well-known shuffles played by John Bonham, Bernard Purdie, and Jeff Porcaro. Practice these grooves as written, but also experiment with moving the leading hand from the hi-hat to the ride while incorporating different hi-hat-foot patterns.
 
-<table align="center">
+<table align="center" width="100%">
   <thead>
     <tr>
-      <th>
+      <th width="50%">
         <div align="center">Shuffle groove</div>
       </th>
-      <th>
+      <th width="50%">
         <div align="center">Inspired by</div>
       </th>
     </tr>
@@ -105,7 +105,7 @@ The half-time shuffles below are interpretations of well-known shuffles played b
         <img src="figures/half-time_shuffles/2.svg"/>
       </td>
       <td align="center">
-        <strong>Steely&nbsp;Dan- 'Home&nbsp;At&nbsp;Last'</strong>
+        <strong>Steely&nbsp;Dan - 'Home&nbsp;At&nbsp;Last'</strong>
       </td>
     </tr>
     <tr>
